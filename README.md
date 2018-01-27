@@ -6,3 +6,6 @@
 - Ruby guru: http://rubylearning.com/other/ruby_gurus.html
 # New setter
 - Refind: https://refind.com/
+# Blog
+- Rails 
+  + https://mixandgo.com/blog/
