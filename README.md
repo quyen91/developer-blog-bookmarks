@@ -10,3 +10,5 @@
 # Blog
 - Rails 
   + https://mixandgo.com/blog/
+# Code
+- Opensource rails projects: https://github.com/golive/dev-wiki/wiki/Big-open-source-Rails-Apps
