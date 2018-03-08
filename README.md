@@ -6,6 +6,7 @@
 - Ruby guru: http://rubylearning.com/other/ruby_gurus.html
 - Facebook code: https://code.facebook.com/posts
 - Code without rules: https://codewithoutrules.com/
+- Coding Architecture: http://www.codingthearchitecture.com/
 # New setter
 - Refind: https://refind.com/
 # Blog
