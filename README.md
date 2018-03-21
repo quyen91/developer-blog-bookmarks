@@ -7,6 +7,7 @@
 - Facebook code: https://code.facebook.com/posts
 - Code without rules: https://codewithoutrules.com/
 - Coding Architecture: http://www.codingthearchitecture.com/
+- Code: http://blog.paracode.com/
 # New setter
 - Refind: https://refind.com/
 # Blog
