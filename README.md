@@ -15,5 +15,7 @@
   + https://mixandgo.com/blog/
 - Ruby, Elixir
   + https://www.amberbit.com/
+- Software:
+  + https://8thlight.com/
 # Code
 - Opensource rails projects: https://github.com/golive/dev-wiki/wiki/Big-open-source-Rails-Apps
